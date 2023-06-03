@@ -1,0 +1,2 @@
+# gcloud_associate_cloud_engineer_note
+google cloud associate cloud engineerの勉強記録
